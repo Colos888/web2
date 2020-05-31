@@ -1,0 +1,410 @@
+.header{
+	height: 100px;
+	line-height: 100px;
+	position: relative;
+}
+.container{
+	width: 1200px;
+	margin: 0 auto;
+}
+.logof{
+	float: left;
+	
+	padding-right: 80px;
+}
+.form{
+	position: absolute;
+	top: 10px;
+	right: 50px;
+	
+	
+}
+.search{
+	width: 360px;
+	height: 40px;
+	border: 1px solid #00A3FF;
+	margin-top: 20px;
+	float: left;
+
+}
+.submit{
+	background: url(../images/fa-search.png) no-repeat center center;
+	width: 50px;
+	height: 42px;
+	background-color:  #00A3FF;
+	border: none;
+	float: left;
+	margin-top: 20px;
+
+}
+.geren{
+	position: absolute;
+	top: 44px;
+	right: 130px;
+}
+a.geren{
+	color: #656565;
+	font-size: 14px;
+}
+
+.nav1 li{
+	float: left;
+	width:80px;
+	font-size:18px;
+	font-weight:400;
+	color:rgba(5,5,5,1);
+}
+.nav1 a{
+	font-weight:400;
+	color:rgba(5,5,5,1);
+}
+.shouye{
+	border-bottom: 2px solid #00A3FF; 
+}
+.banner{
+	height: 420px;
+	background-color: #1C036C;
+	position: relative;
+
+
+}
+.bgimg{
+	background: url(../images/banner2.png) no-repeat center center;
+	height: 420px;
+	
+}
+ul.nav2{
+	width:190px;
+	height:420px;
+	background:rgba(0,0,0,0.3);
+	
+	position: absolute;
+	top: 0px;
+	left: 170px;
+
+
+}
+.nav2 li{
+	
+	height: 45px;
+	line-height: 45px;
+	padding-left: 20px;
+	width: 170px;
+}
+
+.nav2 a{
+	color: white;
+}
+div.content{
+	padding-top: 8px;
+	background-color: #f3f5f7; 
+}
+div.navke{
+	
+	height:60px;
+	background:rgba(255,255,255,1);
+}
+.navke ul li{
+	margin-top: 21px;
+	height:18px;
+	padding-right: 38px; 
+	display: inline-block;
+	float: left;
+	padding-left: 34px;
+	border-right: 1px solid black;
+
+}
+.navke a{
+	color: black;
+}
+li.last{
+	border: none;
+}
+
+.first a{
+	color: #00A4FF;
+	font-weight: bold;
+}
+
+.fir{
+	float: left;
+	font-size: 20px;
+	padding-top: 38px;
+	padding-bottom: 20px;
+}
+.las{
+	float: right;
+	padding-top: 44px;
+	font-size: 12px;
+	padding-bottom: 20px;
+}
+.fir a{
+	color: #494949;
+}
+.las a{
+	color: #A5A5A5;
+}
+div.con1{
+	height: 78px;
+}
+
+
+
+.con21{
+
+	background: url(../images/con21.png) no-repeat top center;
+	width: 234px;
+	height: 270px;
+	position: relative;
+	
+	
+
+}
+.con22{
+
+	background: url(../images/con22.png) no-repeat top center;
+	width: 234px;
+	height: 270px;
+	position: relative;
+	float: left;
+	
+
+}
+.con23{
+
+	background: url(../images/con23.png) no-repeat top center;
+	width: 234px;
+	height: 270px;
+	position: relative;
+	float: left;
+
+}
+.con24{
+
+	background: url(../images/con24.png) no-repeat top center;
+	width: 234px;
+	height: 270px;
+	position: relative;
+	float: left;
+}
+.con25{
+
+	background: url(../images/con24.png) no-repeat top center;
+	width: 234px;
+	height: 270px;
+	position: relative;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+}
+
+.conn{
+	background-color: white; 
+	position: absolute;
+	top: 155px;
+}
+.conna{
+	padding-right: 7px;
+}
+.btoom1{
+	padding-top: 24px;
+	padding-bottom: 26px;
+}
+.btoom2{
+	padding-left: 24px;
+	padding-bottom: 26px;
+}
+.con2{
+	position: relative;
+
+}
+.float1{
+	position: absolute;
+	top: 0px;
+	left: 239px;
+}
+.dengji{
+	padding-left: 390px; 
+}
+.dengji li{
+	float: left;
+	padding-top: 42px;
+	width: 100px;
+	
+
+}
+.dengji a{
+	color: black;
+}
+.firs a{
+	color: #00A4FF;
+}
+
+.con31{
+
+	background: url(../images/con31.png) no-repeat top center;
+	width: 234px;
+	height: 270px;
+	position: relative;
+	
+	
+
+}
+.con32{
+
+	background: url(../images/con32.png) no-repeat top center;
+	width: 234px;
+	height: 270px;
+	position: relative;
+	float: left;
+	
+
+}
+.con33{
+
+	background: url(../images/con33.png) no-repeat top center;
+	width: 234px;
+	height: 270px;
+	position: relative;
+	float: left;
+
+}
+.con34{
+
+	background: url(../images/con34.png) no-repeat top center;
+	width: 234px;
+	height: 270px;
+	position: relative;
+	float: left;
+}
+.con35{
+
+	background: url(../images/con34.png) no-repeat top center;
+	width: 234px;
+	height: 270px;
+	position: relative;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+}
+p.niuren{
+	width:80px;
+	height:19px;
+	font-size:20px;
+
+	font-weight:400;
+	color:rgba(73,73,73,1);
+}
+.niuren{
+	padding-top: 36px;
+	padding-bottom: 34px;
+}
+div.tt1{
+	float: left;
+	padding-right: 10px;
+	width: 470px;
+	height: 320px;
+}
+div.tt2{
+	padding-left: 12px;
+	background: url(../images/bottom2.png) no-repeat center center;
+	width: 232px;
+	height: 340px;
+	float: left;
+	padding-right: 10px;
+	position: relative;
+}
+.wenzi{
+	width: 228px;
+	height: 122px;
+	background-color: rgba(0,0,0,0.5);
+	position: absolute;
+	bottom: 0; 
+}
+
+div.tt3{
+	padding-left: 12px;
+	background: url(../images/bottom3.png);
+	width: 232px;
+	height: 352px;
+	float: left;
+	padding-right: 2px;
+}
+.conbottom{
+	position: relative;
+}
+div.tt4{
+	padding-left: 12px;
+	background: url(../images/bottom4.png);
+	width: 232px;
+	height: 350px;
+	position: absolute;
+	top: -5px;
+	right: 0px;
+}
+div.bottom{
+	padding-top: 124px;
+	background-color: white;
+
+	
+
+}
+
+
+
+div.bottom{
+
+}
+div.bot1{
+	width: 375px;
+	height: 154px;
+	float: left;
+}
+
+div.bot1{
+	padding-left: 20px;
+}
+.bot11{
+	padding-top: 34px;
+	width:372px;
+	height:12px;
+	font-size:12px;
+
+	font-weight:400;
+	color:rgba(101,101,101,1);
+	line-height:18px;
+}
+.bot12{
+	margin-top: 34px;
+	
+	width:92px;
+	height:36px;
+	padding-left: 28px;
+	line-height: 36px;
+	color: #00A3FF;
+	border: 1px solid #00A3FF;
+
+}
+.bot2{
+	float: left;
+	padding-left: 270px;
+}
+.bot3{
+	float: left;
+	padding-left: 140px;
+}
+.bot4{
+	float: left;
+	padding-left: 120px;
+}
+.bot21{
+	padding-top: 16px;
+}
+.ziti1{
+	font-size: 12px;
+}
+.ziti 
+{
+	font-weight:400;
+	color: #333;
+}
